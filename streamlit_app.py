@@ -6,7 +6,7 @@ st.write(
     "HIIII Whats up??"
 )
 st.write(
-    "hello. I am good. how r u?"
+    "hello. I am good. how hehe r u?"
 )
 st.write(
     "Im good too, thanks for asking"
